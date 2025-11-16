@@ -14,7 +14,7 @@ This is just the start of the profile page... learning more about how to format 
     - NodeJs for data sync via REST API.
     - Python coding for automated testing
 - 🌱 I’m currently learning all I can about Kubernetes... which starts with sharpening my Linux skills and understanding.
-  - Part of Kubecraft community-> https://www.skool.com/kubecraft .
+  - Joined the [Kubecraft community](https://www.skool.com/kubecraft)
   - Arch Linux installation.
     - Dealing with [Bootloader Issues](https://github.com/Mackeul/archlinux-install-notes/blob/master/Readme.md#bootloader-issues)
   - Kubernetes
