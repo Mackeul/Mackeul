@@ -1,17 +1,17 @@
-## Hi, I'm Michael Laporte.
+# Hi, I'm Michael Laporte.
 
-### Github public repo stats
+## Github public repo stats
 <!-- Public only
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mackeul&show_icons=true&theme=city_lights)   
 -->
 ![Your GitHub Stats](https://github-readme-stats-self-two-70.vercel.app/api?username=Mackeul&show_icons=true&theme=city_lights)
-### Github public repo languages
+## Github public repo languages
 <!-- Public only
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mackeul&layout=compact&show_icons=true&theme=city_lights)
 -->
 ![Top Languages](https://github-readme-stats-self-two-70.vercel.app/api/top-langs/?username=Mackeul&layout=compact&show_icons=true&theme=city_lights) 
 
-
+## Working on
 - 🔭 I’m currently working on new websites for Fractionl software group.
   - Maintenance of Order Management System for Milestone Bath.
       - PHP 7.4
@@ -23,17 +23,21 @@
     - Stripe API integration
     - NodeJs for data sync via REST API.
     - Python coding for automated testing
+   
+## Learning
 - 🌱 I’m currently learning all I can about Kubernetes... which starts with sharpening my Linux skills and understanding.
   - Joined the [Kubecraft community](https://www.skool.com/kubecraft)
   - Arch Linux installation.
     - Dealing with [Bootloader Issues](https://github.com/Mackeul/archlinux-install-notes/blob/master/Readme.md#bootloader-issues)
   - Kubernetes
-- 💻 Homelab
+ 
+## Homelab
+- 💻 My homelab currently consists of the following.
   - Proxmox 8 running on HP EliteDesk G2 (i5 + 32GB RAM).
     - VMs:
       - Nginx -> reverse proxy
       - Pi-hole -> DNS & DHCP
-      - Mediwaiki -> online wiki
+      - Mediawiki -> online wiki
       - Nextcloud -> file sharing
       - Plex + Transmission -> Media server + BT
       - Wordpress -> web hosting
