@@ -1,10 +1,10 @@
 ## Hi, I'm Michael Laporte.
 
 ### Github public repo stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mackeul&show_icons=true&theme=onedark)   
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mackeul&show_icons=true&theme=city_lights)   
 
 ### Github public repo languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mackeul&layout=compact&show_icons=true&theme=onedark)   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mackeul&layout=compact&show_icons=true&theme=city_lights)   
 
 
 - 🔭 I’m currently working on new websites for Fractionl software group.
