@@ -1,4 +1,6 @@
 # Hi, I'm Michael Laporte.
+I guess you could call me a Jack-of-all-trades Software Developer.  I try to do and learn whatever is needed to get the job done.  Whether that is designing a subsystem using an Object Oriented Design pattern, writing Bash scripts to automate tasks and deployments, managing databases or doing web programming, no task is too big or too small! :smile:
+
 
 ## Github public repo stats
 <!-- Public only
