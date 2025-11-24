@@ -53,9 +53,9 @@ I guess you could call me a Jack-of-all-trades Software Developer.  I try to do 
     - :gear: Kubernetes cluster!
       - The plan is to have the master running on:
         - an old HP ProBook 4510s (Core 2 Duo, 4GB RAM)
-      - and workers on
-        - a HP G2 EliteDesk G@ (i5 + 32GB RAM)
-        - and Dell CS24 Rackmount server (2x XEON L5420 Quad Core + 24GB RAM + 6TB disks) -> This was my previous VM host running VMWare 6.0 on it, before I migrated to Proxmox.
+      - with workers on
+        - a HP EliteDesk G2 (i5 + 32GB RAM)
+        - and a Dell CS24 Rackmount server (2x XEON L5420 Quad Core + 24GB RAM + 6TB disks) -> This was my previous VM host running VMWare 6.0 on it, before I migrated to Proxmox.
 
 <!--
 **Mackeul/Mackeul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
