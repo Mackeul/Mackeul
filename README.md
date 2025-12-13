@@ -23,9 +23,8 @@ I guess you could call me a Jack-of-all-trades Software Developer.  I try to do 
     - Dealing with [Bootloader Issues](https://github.com/Mackeul/archlinux-install-notes/blob/master/Readme.md#bootloader-issues)
   - Kubernetes
  
-## Homelab
-- 💻 My homelab currently consists of the following.
-  - Proxmox 8 running on HP EliteDesk G2 (i5 + 32GB RAM).
+## :house: Homelab
+- 💻 Proxmox 8 running on HP EliteDesk G2 (i5 + 32GB RAM).
     - VMs:
       - Nginx -> reverse proxy
       - Pi-hole -> DNS & DHCP
@@ -39,7 +38,7 @@ I guess you could call me a Jack-of-all-trades Software Developer.  I try to do 
           - Portainer -> container management
           - Heimdall -> Dashboard
           - Excalidraw -> Drawing / flowchart app
-  ### Coming soon to my homelab
+  ### :loudspeaker: Coming soon to my homelab
     - :gear: Kubernetes cluster!
       - The plan is to have the master running on:
         - an old HP ProBook 4510s (Core 2 Duo, 4GB RAM)
@@ -60,4 +59,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Complete list of github markdown emoticons: https://gist.github.com/rxaviers/7360908
 -->
