@@ -31,7 +31,7 @@ I guess you could call me a Jack-of-all-trades Software Developer.  I try to do 
       - Mediawiki -> online wiki
       - Nextcloud -> file sharing
       - Plex + Transmission -> Media server + BT
-      - Wordpress -> web hosting
+      - Wordpress -> website development
       - Webtrees -> Genealogy Trees
       - Docker -> containerization
         - Containers:
