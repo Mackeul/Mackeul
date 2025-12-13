@@ -1,14 +1,7 @@
 # Hi, I'm Michael Laporte.
 I guess you could call me a Jack-of-all-trades Software Developer.  I try to do and learn whatever is needed to get the job done.  Whether that is designing a subsystem using an Object Oriented Design pattern, writing Bash scripts to automate tasks and deployments, managing databases, doing web programming, or doing Virtual Machine and container administration, no task is too big or too small! :smile:
 
-<!-- Public only
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mackeul&show_icons=true&theme=city_lights)   
--->
-![Your GitHub Stats](https://github-readme-stats-self-two-70.vercel.app/api?username=Mackeul&show_icons=true&theme=city_lights)
-<!-- Public only
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mackeul&layout=compact&show_icons=true&theme=city_lights)
--->
-![Top Languages](https://github-readme-stats-self-two-70.vercel.app/api/top-langs/?username=Mackeul&layout=compact&show_icons=true&theme=city_lights) 
+![Your GitHub Stats](https://github-readme-stats-self-two-70.vercel.app/api?username=Mackeul&show_icons=true&theme=city_lights) ![Top Languages](https://github-readme-stats-self-two-70.vercel.app/api/top-langs/?username=Mackeul&layout=compact&show_icons=true&theme=city_lights) 
 
 ## Working on
 - 🔭 I’m currently working on new websites for Fractionl software group.
