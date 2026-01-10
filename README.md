@@ -5,6 +5,10 @@ I guess you could call me a Jack-of-all-trades Software Developer.  I try to do 
 
 ## Working on
 - 🔭 I’m currently working on new websites for Fractionl software group.
+  - Development of B2B app.
+      - Laravel PHP
+      - Vue.js 3 (mix of composition and options APIs)
+      - Mysql/MariaDB
   - Maintenance of Order Management System for Milestone Bath.
       - PHP 7.4
       - MySQL DB
